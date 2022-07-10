@@ -1,0 +1,15 @@
+.element__like-button {
+  width: 22px;
+  height: 19px;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-color: inherit;
+  border: none;
+  align-self: center;
+  cursor: pointer;
+  transition: 0.5s;
+}
+
+.element__like-button:hover {
+  opacity: 0.5;
+}
