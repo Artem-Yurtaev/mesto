@@ -1,5 +1,5 @@
 .profile__edit-button {
-  margin: 0 auto 23px 19px;
+  margin-left: 20px;
   width: 24px;
   height: 24px;
   background-color: inherit;
@@ -19,6 +19,6 @@
   .profile__edit-button {
     width: 18px;
     height: 18px;
-    margin: -50px 0 0 calc(50% + 65px);
+    margin-left: 10px;
   }
 }
